@@ -39,7 +39,7 @@ high-level understanding of what you’d like to accomplish.
     install.packages("remotes"); require(remotes)
     
     # Use install_github to get RInno
-    install_github("ficonsulting/RInno")
+    install_github("martin-jeremy/RInno")
     
     # Require Package
     require(RInno)
